@@ -73,7 +73,6 @@ export default new Router({
           }
         }
       ]
-      // meta: { title: '监管事项', icon: 'dashboard', affix: true }
     }
   ]
 });
